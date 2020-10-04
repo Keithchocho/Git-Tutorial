@@ -1,0 +1,22 @@
+pwd: 현재 위치
+cd : 위치 변경
+add 파일 추가 add . 모든 파일 추가
+reset --hard : 특정 위치를 제외한 나머지  리셋 git log통해서 위치 따와야함
+clone + 리포 주소 클론화 시키기
+git commit --amend :커밋 이름 바꾸기(수정)  >> A누르면 insert라고 뜸 그러면 수정 가능해짐 >> 수정후 : wq! 입렵하면 끝
+
+
+Branch 사용
+
+git branch 입력하면 현재 브랜치 상태가 뜸
+git branch XXXX : XXXX브랜치 생성
+git checkout XXXX :  XXXX brach로 이동
+
+merge 합병
+git branch -d  XXXX : XXXX branch삭제
+
+
+git remote : 현재 상태 보여줌
+
+git remote show origin :자세한 리무트에 대한 정보공개
+ 
