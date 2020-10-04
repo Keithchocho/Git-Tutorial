@@ -5,6 +5,7 @@ def sub(a, b):
  	return a - b
 
 def mul(a, b):
+<<<<<<< HEAD
  	return a * b
 
 def mul(a, b):
@@ -12,3 +13,6 @@ def mul(a, b):
 
 def div(a ,b ):
 	return a - b 띠옹ㅇ아오후 
+=======
+ 	return a * b
+>>>>>>> 7c6896d3f1b1d160f781e075aaf83e26c7cbc440
